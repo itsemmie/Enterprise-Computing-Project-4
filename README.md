@@ -6,8 +6,11 @@ browser. The schema of the backend database consists of four tables with the fol
 each table:
 
 suppliers (snum, sname, status, city) //information about suppliers
+
 parts (pnum, pname, color, weight, city) //information about parts
+
 jobs (jnum, jname, numworkers, city) //information about jobs
+
 shipments (snum, pnum, jnum, quantity) //suppliers ship parts to jobs in specific quantities
  
  
