@@ -1,5 +1,8 @@
 # Enterprise-Computing-Project-4
 
+![alt text](https://github.com/itsemmie/Enterprise-Computing-Project-4/blob/main/project-preview.png?raw=true)
+![alt text](https://github.com/itsemmie/Enterprise-Computing-Project-4/blob/main/project-preview2.png?raw=true)
+
 In this assignment you will utilize a suppliers/parts/jobs/shipments database
 (creation/population script available on the course assignment page) as the back-end database. Frontend access to this database by the client will occur through a single page displayed in the client’s web
 browser. The schema of the backend database consists of four tables with the following schemas for
