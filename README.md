@@ -1,7 +1,7 @@
 # Enterprise-Computing-Project-4
 
-![alt text](https://github.com/itsemmie/Enterprise-Computing-Project-4/blob/master/project-preview.png?raw=true)
-![alt text](https://github.com/itsemmie/Enterprise-Computing-Project-4/blob/master/project-preview2.png?raw=true)
+![alt text](https://github.com/itsemmie/Enterprise-Computing-Project-4/blob/master/project-preview.PNG?raw=true)
+![alt text](https://github.com/itsemmie/Enterprise-Computing-Project-4/blob/master/project-preview2.PNG?raw=true)
 
 In this assignment you will utilize a suppliers/parts/jobs/shipments database
 (creation/population script available on the course assignment page) as the back-end database. Frontend access to this database by the client will occur through a single page displayed in the client’s web
